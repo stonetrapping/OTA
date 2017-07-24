@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <scorpio>
+            <Filename>RR-N-v5.8.3-20170722-scorpio-Weekly.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Download Latest Build"
+                description="RR-N-v5.8.3-20170722-scorpio-Weekly.zip">https://www.androidfilehost.com/?fid=745425885120750739</RomUrl>
+            <Md5Url
+                id="chksum"
+                title="Md5sum"
+                description="Download md5sum from AFH">https://www.androidfilehost.com/?fid=889764386195917787</Md5Url>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Latest OpenGapps">http://opengapps.org</OpenGappsUrl>
+              <ThreadUrl
+              id="thread"
+              title="XDA thread"
+              description="View StoneTrappers's XDA thread for RR Mi Note 2 - SEARCH  THREAD  for your issue  BEFORE  posting">https://forum.xda-developers.com/mi-note-2/development/rom-resurrectionremix-5-8-3-t3608784</ThreadUrl>
+		</scorpio>
+	</Stable>
+</SlimOTA>
