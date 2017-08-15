@@ -2,15 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <scorpio>
-            <Filename>RR-N-v5.8.4-20170810-scorpio-Weekly.zip</Filename>
+            <Filename>RR-N-v5.8.4-20170814-scorpio-Weekly.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Download Latest Build"
-                description="RR-N-v5.8.3-20170722-scorpio-Weekly.zip">https://www.androidfilehost.com/?fid=745425885120750739</RomUrl>
-            <Md5Url
-                id="chksum"
-                title="Md5sum"
-                description="Download md5sum from AFH">https://www.androidfilehost.com/?fid=889764386195917787</Md5Url>
+                description="RR-N-v5.8.4-20170814-scorpio-Weekly.zip">https://www.androidfilehost.com/?fid=673368273298979014</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
